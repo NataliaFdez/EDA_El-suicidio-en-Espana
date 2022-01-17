@@ -1,4 +1,4 @@
-# EDA
+# MI PRIMER EDA
 
 #### **Proyecto Data Analysis:**
 
