@@ -1,0 +1,379 @@
+PERIODO,DESEMPLEO,CCAA
+2000,51.47, Andalucía
+2001,50.08, Andalucía
+2002,19.5, Andalucía
+2003,18.45, Andalucía
+2004,16.99, Andalucía
+2005,13.82, Andalucía
+2006,12.62, Andalucía
+2007,12.75, Andalucía
+2008,17.7, Andalucía
+2009,25.24, Andalucía
+2010,27.77, Andalucía
+2011,30.13, Andalucía
+2012,34.35, Andalucía
+2013,36.22, Andalucía
+2014,34.78, Andalucía
+2015,31.54, Andalucía
+2016,28.88, Andalucía
+2017,25.5, Andalucía
+2018,22.98, Andalucía
+2019,21.19, Andalucía
+2020,22.27, Andalucía
+2000,51.0, Aragón
+2001,50.17, Aragón
+2002,5.85, Aragón
+2003,6.63, Aragón
+2004,5.66, Aragón
+2005,5.9, Aragón
+2006,5.53, Aragón
+2007,5.3, Aragón
+2008,7.28, Aragón
+2009,13.05, Aragón
+2010,14.96, Aragón
+2011,17.08, Aragón
+2012,18.66, Aragón
+2013,21.38, Aragón
+2014,20.17, Aragón
+2015,16.29, Aragón
+2016,14.74, Aragón
+2017,11.64, Aragón
+2018,10.63, Aragón
+2019,10.02, Aragón
+2020,11.7, Aragón
+2000,45.39," Asturias, Principado de"
+2001,42.21," Asturias, Principado de"
+2002,9.8," Asturias, Principado de"
+2003,11.3," Asturias, Principado de"
+2004,10.32," Asturias, Principado de"
+2005,10.04," Asturias, Principado de"
+2006,9.16," Asturias, Principado de"
+2007,8.42," Asturias, Principado de"
+2008,8.5," Asturias, Principado de"
+2009,13.42," Asturias, Principado de"
+2010,15.92," Asturias, Principado de"
+2011,17.84," Asturias, Principado de"
+2012,21.82," Asturias, Principado de"
+2013,24.13," Asturias, Principado de"
+2014,21.13," Asturias, Principado de"
+2015,19.11," Asturias, Principado de"
+2016,17.61," Asturias, Principado de"
+2017,13.71," Asturias, Principado de"
+2018,13.61," Asturias, Principado de"
+2019,14.19," Asturias, Principado de"
+2020,14.12," Asturias, Principado de"
+2000,59.1," Balears, Illes"
+2001,58.82," Balears, Illes"
+2002,7.62," Balears, Illes"
+2003,9.78," Balears, Illes"
+2004,9.17," Balears, Illes"
+2005,7.29," Balears, Illes"
+2006,6.5," Balears, Illes"
+2007,7.22," Balears, Illes"
+2008,10.19," Balears, Illes"
+2009,17.97," Balears, Illes"
+2010,20.18," Balears, Illes"
+2011,21.95," Balears, Illes"
+2012,23.26," Balears, Illes"
+2013,22.34," Balears, Illes"
+2014,20.14," Balears, Illes"
+2015,17.41," Balears, Illes"
+2016,13.96," Balears, Illes"
+2017,12.53," Balears, Illes"
+2018,11.68," Balears, Illes"
+2019,11.82," Balears, Illes"
+2020,16.19," Balears, Illes"
+2000,56.05, Canarias
+2001,55.62, Canarias
+2002,11.08, Canarias
+2003,11.34, Canarias
+2004,11.92, Canarias
+2005,11.71, Canarias
+2006,11.62, Canarias
+2007,10.45, Canarias
+2008,17.24, Canarias
+2009,26.0, Canarias
+2010,28.6, Canarias
+2011,29.28, Canarias
+2012,32.58, Canarias
+2013,33.73, Canarias
+2014,32.42, Canarias
+2015,29.1, Canarias
+2016,26.06, Canarias
+2017,23.47, Canarias
+2018,20.08, Canarias
+2019,20.5, Canarias
+2020,22.65, Canarias
+2000,48.63, Cantabria
+2001,49.56, Cantabria
+2002,10.02, Cantabria
+2003,10.41, Cantabria
+2004,10.56, Cantabria
+2005,8.5, Cantabria
+2006,6.46, Cantabria
+2007,5.96, Cantabria
+2008,7.16, Cantabria
+2009,12.0, Cantabria
+2010,13.7, Cantabria
+2011,15.3, Cantabria
+2012,17.79, Cantabria
+2013,20.45, Cantabria
+2014,19.42, Cantabria
+2015,17.65, Cantabria
+2016,14.91, Cantabria
+2017,13.56, Cantabria
+2018,10.68, Cantabria
+2019,10.28, Cantabria
+2020,12.16, Cantabria
+2000,48.82,lla y León
+2001,47.71,lla y León
+2002,10.46,lla y León
+2003,11.1,lla y León
+2004,10.71,lla y León
+2005,8.75,lla y León
+2006,8.12,lla y León
+2007,7.13,lla y León
+2008,9.61,lla y León
+2009,13.98,lla y León
+2010,15.8,lla y León
+2011,16.87,lla y León
+2012,19.8,lla y León
+2013,21.75,lla y León
+2014,20.76,lla y León
+2015,18.26,lla y León
+2016,15.82,lla y León
+2017,14.08,lla y León
+2018,12.1,lla y León
+2019,11.64,lla y León
+2020,12.07,lla y León
+2000,49.55,lla - La Mancha
+2001,48.68,lla - La Mancha
+2002,9.52,lla - La Mancha
+2003,10.14,lla - La Mancha
+2004,9.51,lla - La Mancha
+2005,9.22,lla - La Mancha
+2006,8.85,lla - La Mancha
+2007,7.66,lla - La Mancha
+2008,11.66,lla - La Mancha
+2009,18.87,lla - La Mancha
+2010,21.22,lla - La Mancha
+2011,23.08,lla - La Mancha
+2012,28.58,lla - La Mancha
+2013,29.97,lla - La Mancha
+2014,28.99,lla - La Mancha
+2015,26.34,lla - La Mancha
+2016,23.55,lla - La Mancha
+2017,20.76,lla - La Mancha
+2018,18.16,lla - La Mancha
+2019,16.2,lla - La Mancha
+2020,17.67,lla - La Mancha
+2000,57.46, Cataluña
+2001,57.91, Cataluña
+2002,10.17, Cataluña
+2003,10.25, Cataluña
+2004,9.72, Cataluña
+2005,6.92, Cataluña
+2006,6.49, Cataluña
+2007,6.47, Cataluña
+2008,8.88, Cataluña
+2009,16.22, Cataluña
+2010,17.66, Cataluña
+2011,19.16, Cataluña
+2012,22.52, Cataluña
+2013,23.12, Cataluña
+2014,20.33, Cataluña
+2015,18.59, Cataluña
+2016,15.71, Cataluña
+2017,13.41, Cataluña
+2018,11.49, Cataluña
+2019,11.03, Cataluña
+2020,12.64, Cataluña
+2000,54.63, Comunitat Valenciana
+2001,55.14, Comunitat Valenciana
+2002,10.82, Comunitat Valenciana
+2003,11.24, Comunitat Valenciana
+2004,10.46, Comunitat Valenciana
+2005,8.88, Comunitat Valenciana
+2006,8.34, Comunitat Valenciana
+2007,8.74, Comunitat Valenciana
+2008,11.98, Comunitat Valenciana
+2009,20.76, Comunitat Valenciana
+2010,22.86, Comunitat Valenciana
+2011,23.99, Comunitat Valenciana
+2012,27.19, Comunitat Valenciana
+2013,28.05, Comunitat Valenciana
+2014,25.81, Comunitat Valenciana
+2015,22.78, Comunitat Valenciana
+2016,20.62, Comunitat Valenciana
+2017,18.18, Comunitat Valenciana
+2018,15.59, Comunitat Valenciana
+2019,14.11, Comunitat Valenciana
+2020,16.19, Comunitat Valenciana
+2000,51.16, Extremadura
+2001,46.43, Extremadura
+2002,19.04, Extremadura
+2003,17.29, Extremadura
+2004,17.25, Extremadura
+2005,15.74, Extremadura
+2006,13.31, Extremadura
+2007,12.97, Extremadura
+2008,15.35, Extremadura
+2009,20.63, Extremadura
+2010,22.97, Extremadura
+2011,25.08, Extremadura
+2012,33.08, Extremadura
+2013,33.87, Extremadura
+2014,29.79, Extremadura
+2015,29.1, Extremadura
+2016,27.52, Extremadura
+2017,26.22, Extremadura
+2018,23.64, Extremadura
+2019,21.54, Extremadura
+2020,21.8, Extremadura
+2000,51.26, Galicia
+2001,49.69, Galicia
+2002,12.15, Galicia
+2003,12.67, Galicia
+2004,13.54, Galicia
+2005,9.89, Galicia
+2006,8.35, Galicia
+2007,7.58, Galicia
+2008,8.64, Galicia
+2009,12.44, Galicia
+2010,15.32, Galicia
+2011,17.26, Galicia
+2012,20.53, Galicia
+2013,22.04, Galicia
+2014,21.65, Galicia
+2015,19.31, Galicia
+2016,17.15, Galicia
+2017,15.67, Galicia
+2018,13.34, Galicia
+2019,11.76, Galicia
+2020,12.01, Galicia
+2000,57.04," Madrid, Comunidad de"
+2001,56.96," Madrid, Comunidad de"
+2002,7.3," Madrid, Comunidad de"
+2003,7.37," Madrid, Comunidad de"
+2004,6.74," Madrid, Comunidad de"
+2005,6.84," Madrid, Comunidad de"
+2006,6.3," Madrid, Comunidad de"
+2007,6.24," Madrid, Comunidad de"
+2008,8.6," Madrid, Comunidad de"
+2009,13.86," Madrid, Comunidad de"
+2010,15.84," Madrid, Comunidad de"
+2011,16.34," Madrid, Comunidad de"
+2012,18.53," Madrid, Comunidad de"
+2013,19.76," Madrid, Comunidad de"
+2014,18.75," Madrid, Comunidad de"
+2015,17.06," Madrid, Comunidad de"
+2016,15.71," Madrid, Comunidad de"
+2017,13.34," Madrid, Comunidad de"
+2018,12.22," Madrid, Comunidad de"
+2019,10.62," Madrid, Comunidad de"
+2020,12.5," Madrid, Comunidad de"
+2000,54.43," Murcia, Región de"
+2001,53.92," Murcia, Región de"
+2002,11.3," Murcia, Región de"
+2003,10.79," Murcia, Región de"
+2004,10.73," Murcia, Región de"
+2005,8.04," Murcia, Región de"
+2006,7.88," Murcia, Región de"
+2007,7.54," Murcia, Región de"
+2008,12.43," Murcia, Región de"
+2009,20.33," Murcia, Región de"
+2010,22.86," Murcia, Región de"
+2011,24.98," Murcia, Región de"
+2012,27.62," Murcia, Región de"
+2013,28.98," Murcia, Región de"
+2014,26.58," Murcia, Región de"
+2015,24.62," Murcia, Región de"
+2016,19.78," Murcia, Región de"
+2017,18.03," Murcia, Región de"
+2018,16.76," Murcia, Región de"
+2019,14.68," Murcia, Región de"
+2020,16.17," Murcia, Región de"
+2000,55.39," Navarra, Comunidad Foral de"
+2001,55.35," Navarra, Comunidad Foral de"
+2002,5.84," Navarra, Comunidad Foral de"
+2003,5.8," Navarra, Comunidad Foral de"
+2004,5.57," Navarra, Comunidad Foral de"
+2005,5.65," Navarra, Comunidad Foral de"
+2006,5.38," Navarra, Comunidad Foral de"
+2007,4.72," Navarra, Comunidad Foral de"
+2008,6.83," Navarra, Comunidad Foral de"
+2009,10.83," Navarra, Comunidad Foral de"
+2010,11.9," Navarra, Comunidad Foral de"
+2011,12.99," Navarra, Comunidad Foral de"
+2012,16.16," Navarra, Comunidad Foral de"
+2013,17.93," Navarra, Comunidad Foral de"
+2014,15.71," Navarra, Comunidad Foral de"
+2015,13.83," Navarra, Comunidad Foral de"
+2016,12.48," Navarra, Comunidad Foral de"
+2017,10.24," Navarra, Comunidad Foral de"
+2018,10.03," Navarra, Comunidad Foral de"
+2019,8.24," Navarra, Comunidad Foral de"
+2020,10.06," Navarra, Comunidad Foral de"
+2000,53.87, País Vasco
+2001,54.15, País Vasco
+2002,9.56, País Vasco
+2003,9.5, País Vasco
+2004,9.82, País Vasco
+2005,7.41, País Vasco
+2006,7.16, País Vasco
+2007,6.22, País Vasco
+2008,6.62, País Vasco
+2009,11.34, País Vasco
+2010,10.69, País Vasco
+2011,12.35, País Vasco
+2012,15.6, País Vasco
+2013,16.57, País Vasco
+2014,16.32, País Vasco
+2015,14.76, País Vasco
+2016,12.59, País Vasco
+2017,11.3, País Vasco
+2018,9.97, País Vasco
+2019,9.15, País Vasco
+2020,9.54, País Vasco
+2000,51.27," Rioja, La"
+2001,50.44," Rioja, La"
+2002,7.05," Rioja, La"
+2003,6.03," Rioja, La"
+2004,5.95," Rioja, La"
+2005,6.38," Rioja, La"
+2006,6.11," Rioja, La"
+2007,5.77," Rioja, La"
+2008,7.89," Rioja, La"
+2009,12.65," Rioja, La"
+2010,14.14," Rioja, La"
+2011,17.21," Rioja, La"
+2012,20.57," Rioja, La"
+2013,20.04," Rioja, La"
+2014,18.16," Rioja, La"
+2015,15.38," Rioja, La"
+2016,13.54," Rioja, La"
+2017,11.99," Rioja, La"
+2018,10.4," Rioja, La"
+2019,9.96," Rioja, La"
+2020,10.8," Rioja, La"
+2000,55.49, Ceuta y Melilla
+2001,46.29, Ceuta y Melilla
+2002,3.52, Ceuta y Melilla
+2003,4.74, Ceuta y Melilla
+2004,5.43, Ceuta y Melilla
+2005,9.72, Ceuta y Melilla
+2006,10.62, Ceuta y Melilla
+2007,10.5, Ceuta y Melilla
+2008,8.73, Ceuta y Melilla
+2009,9.32, Ceuta y Melilla
+2010,11.96, Ceuta y Melilla
+2011,13.87, Ceuta y Melilla
+2012,18.51, Ceuta y Melilla
+2013,17.4, Ceuta y Melilla
+2014,15.92, Ceuta y Melilla
+2015,13.78, Ceuta y Melilla
+2016,12.44, Ceuta y Melilla
+2017,11.19, Ceuta y Melilla
+2018,14.46, Ceuta y Melilla
+2019,12.91, Ceuta y Melilla
+2020,12.26, Ceuta y Melilla
